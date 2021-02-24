@@ -9,6 +9,9 @@ dj3-cloudinary-storage = "*"
 pillow = "*"
 gunicorn = "*"
 django-heroku = "*"
+psycopg2 = "*"
+dj-database-url = "*"
+whitenoise = "*"
 
 [dev-packages]
 
