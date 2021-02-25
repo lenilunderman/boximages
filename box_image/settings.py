@@ -15,7 +15,7 @@ SECRET_KEY = 'kb!#x!h)7n$2-&^)(ip8lmw93ulx--f&l50r1%p%lc=$h)%$b)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['boximageleni.herokuapp.com','localhost','127.0.0.1']
+ALLOWED_HOSTS = ['lenicolor2020.herokuapp.com','localhost','127.0.0.1']
 
 
 # Application definition
